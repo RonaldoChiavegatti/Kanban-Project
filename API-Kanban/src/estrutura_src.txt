@@ -1,0 +1,87 @@
+Listagem de caminhos de pasta para o volume Sistema
+O n£mero de s‚rie do volume ‚ 8605-E33F
+C:.
+³   app.controller.spec.ts
+³   app.controller.ts
+³   app.module.ts
+³   app.service.ts
+³   estrutura_src.txt
+³   main.ts
+³   scr.zip
+³   
+ÃÄÄÄauth
+³   ³   auth.controller.spec.ts
+³   ³   auth.controller.ts
+³   ³   auth.module.ts
+³   ³   auth.service.spec.ts
+³   ³   auth.service.ts
+³   ³   
+³   ÃÄÄÄauth
+³   ³       auth.guard.spec.ts
+³   ³       auth.guard.ts
+³   ³       
+³   ÃÄÄÄdto
+³   ³       login.dto.ts
+³   ³       register.dto.ts
+³   ³       
+³   ÀÄÄÄentities
+³           auth.entity.ts
+³           
+ÃÄÄÄboard
+³   ³   board.controller.spec.ts
+³   ³   board.controller.ts
+³   ³   board.module.ts
+³   ³   board.service.spec.ts
+³   ³   board.service.ts
+³   ³   
+³   ÃÄÄÄdto
+³   ³       create-board.dto.ts
+³   ³       update-board.dto.ts
+³   ³       
+³   ÀÄÄÄentities
+³           board.entity.ts
+³           
+ÃÄÄÄcard
+³   ³   card.controller.spec.ts
+³   ³   card.controller.ts
+³   ³   card.module.ts
+³   ³   card.service.spec.ts
+³   ³   card.service.ts
+³   ³   
+³   ÃÄÄÄdto
+³   ³       create-card.dto.ts
+³   ³       reorder-cards.dto.ts
+³   ³       update-card.dto.ts
+³   ³       
+³   ÀÄÄÄentities
+³           card.entity.ts
+³           
+ÃÄÄÄswimlane
+³   ³   swimlane.controller.spec.ts
+³   ³   swimlane.controller.ts
+³   ³   swimlane.module.ts
+³   ³   swimlane.service.spec.ts
+³   ³   swimlane.service.ts
+³   ³   
+³   ÃÄÄÄdto
+³   ³       create-swimlane.dto.ts
+³   ³       reorder-swimlane.dto.ts
+³   ³       update-swimlane.dto.ts
+³   ³       
+³   ÀÄÄÄentities
+³           swimlane.entity.ts
+³           
+ÀÄÄÄuser
+    ³   user.controller.spec.ts
+    ³   user.controller.ts
+    ³   user.module.ts
+    ³   user.service.spec.ts
+    ³   user.service.ts
+    ³   
+    ÃÄÄÄdto
+    ³       create-user.dto.ts
+    ³       update-user.dto.ts
+    ³       
+    ÀÄÄÄentities
+            user.entity.ts
+            
