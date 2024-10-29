@@ -1,1 +1,1 @@
-web: node API-Kanban/dist/main.js
+web: node backend/dist/main.js
